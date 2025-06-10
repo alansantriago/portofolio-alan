@@ -218,16 +218,18 @@ export default function Hero() {
               <div className="absolute inset-0 rounded-full border-2 border-dashed border-blue-500/20 animate-spin-slow"></div>
               <div className="absolute -inset-4 rounded-full border border-blue-500/10 dark:border-blue-500/5"></div>
 
-              <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full flex items-center justify-center">
+              <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full flex items-center justify-center overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-500 to-cyan-400 opacity-20 rounded-full"></div>
                 <div className="absolute inset-1 rounded-full bg-white dark:bg-slate-900 transition-colors duration-500"></div>
-                <Image
-                  src="/profil.jpg"
-                  alt="Profile"
+                <video
+                  src="/video.mp4"
                   width={320}
                   height={320}
-                  className="rounded-full object-cover relative z-10 p-2"
-                  priority
+                  autoPlay
+                  muted
+                  loop
+                  playsInline
+                  className="rounded-full object-cover relative z-10 p-0 top-28"
                 />
               </div>
 

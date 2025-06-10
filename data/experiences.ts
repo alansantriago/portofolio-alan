@@ -22,7 +22,7 @@ export const experiences: WorkExperience[] = [
       "Collaborated with UI/UX designers to enhance user experience across platforms",
       "Optimized performance and conducted thorough testing to ensure application stability",
     ],
-    logo: "https://media.licdn.com/dms/image/v2/C560BAQHcooOE5_T_5g/company-logo_100_100/company-logo_100_100/0/1631410346893/dinas_komunikasi_dan_informatika_logo?e=1755129600&v=beta&t=h5EnmzTlpIiCLzVIYoQXLXVlQwdYlDo91yWj_0KKssk",
+    logo: "/logo-kominfo.png",
     skills: ["React", "Next.js", "Laravel", "Tailwind CSS", "MySQL"],
   },
   {
@@ -36,7 +36,7 @@ export const experiences: WorkExperience[] = [
       "Provided end-to-end web solutions from UI/UX design to deployment",
       "Maintained scalable and well-documented codebases for ongoing client projects",
     ],
-    logo: "https://media.licdn.com/dms/image/v2/D560BAQEOtnGW504ZqQ/company-logo_200_200/B56Zc7zUAsGoAY-/0/1749054997019/alfaefsatech_logo?e=1755129600&v=beta&t=tiVLz6KJOM2mROaYOz_BC033xD2v22KqpNgRYgYwsA0",
+    logo: "/logo-alfaefsatech.png",
     skills: ["Laravel", "PHP", "MySQL", "Tailwind CSS", "Web Design"],
   },
   {
@@ -50,7 +50,7 @@ export const experiences: WorkExperience[] = [
       "Organized source files for maintainability and followed structured programming principles",
       "Utilized pre-built libraries and frameworks such as Bootstrap to enhance development speed",
     ],
-    logo: "https://media.licdn.com/dms/image/v2/C560BAQHcooOE5_T_5g/company-logo_100_100/company-logo_100_100/0/1631410346893/dinas_komunikasi_dan_informatika_logo?e=1755129600&v=beta&t=h5EnmzTlpIiCLzVIYoQXLXVlQwdYlDo91yWj_0KKssk",
+    logo: "/logo-kominfo.png",
     skills: ["HTML5", "CSS3", "JavaScript", "PHP", "Bootstrap", "MySQL"],
   },
   {
@@ -64,7 +64,7 @@ export const experiences: WorkExperience[] = [
       "Managed payroll and deposit client data, created memos and reports",
       "Conducted canvassing activities to attract new business clients",
     ],
-    logo: "https://media.licdn.com/dms/image/v2/D560BAQGk9FVWJo7Giw/company-logo_100_100/company-logo_100_100/0/1709522436677/pt__bank_tabungan_negara_persero_tbk_logo?e=1755129600&v=beta&t=WxKWV6rnD6fwq297CpkhFXjDoAy-Rkh4g_ool42wGBY",
+    logo: "/logo-BTN.png",
     skills: ["Customer Service", "Data Management", "Banking Services"],
   },
   {
@@ -91,7 +91,7 @@ export const experiences: WorkExperience[] = [
       "Developed a mail service and archiving web system using CodeIgniter",
       "Handled full project lifecycle from analysis to user training and maintenance",
     ],
-    logo: "https://bengkuluekspress.disway.id/upload/2018/01/SMAIT-Iqra.jpg",
+    logo: "/logo-SMAIT-Iqra.png",
     skills: ["PHP", "CodeIgniter", "JavaScript", "HTML5", "CSS3"],
   },
   {
@@ -117,7 +117,7 @@ export const experiences: WorkExperience[] = [
       "Worked on Arduino-based hardware projects and explored Adobe tools for multimedia",
       "Produced advertising media and gained exposure to robotics and video production",
     ],
-    logo: "https://media.licdn.com/dms/image/v2/C560BAQF9oBGqUxdBXQ/company-logo_100_100/company-logo_100_100/0/1637035691006/utdiofficial_logo?e=1755129600&v=beta&t=9ss90l7dtTfH6_23huT00iTaXtv6qqR-tPAWbGbTcKg",
+    logo: "/logo-akakom.png",
     skills: ["Arduino", "Adobe Premiere Pro", "Adobe Illustrator", "Photoshop", "After Effects"],
   },
 ]
